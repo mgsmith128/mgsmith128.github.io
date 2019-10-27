@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Title on Moss and Jayne</title>
+    <link>https://mossandjayne.com/illustrations/</link>
+    <description>Recent content in Title on Moss and Jayne</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-en</language>
+    
+	<atom:link href="https://mossandjayne.com/illustrations/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Illustration 2</title>
+      <link>https://mossandjayne.com/illustrations/2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mossandjayne.com/illustrations/2/</guid>
+      <description>This is illustration number 2</description>
+    </item>
+    
+    <item>
+      <title>Illustration 3</title>
+      <link>https://mossandjayne.com/illustrations/3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mossandjayne.com/illustrations/3/</guid>
+      <description>This is illustration number 3</description>
+    </item>
+    
+    <item>
+      <title>Illustration 4</title>
+      <link>https://mossandjayne.com/illustrations/4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mossandjayne.com/illustrations/4/</guid>
+      <description>This is illustration number 4</description>
+    </item>
+    
+    <item>
+      <title>Title of the illustration</title>
+      <link>https://mossandjayne.com/illustrations/1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mossandjayne.com/illustrations/1/</guid>
+      <description>Text goes here and here and here and here
+With some more here
+And maybe even here</description>
+    </item>
+    
+  </channel>
+</rss>
